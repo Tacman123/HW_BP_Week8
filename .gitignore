@@ -96,3 +96,6 @@ Content/__ExternalActors__/ThirdPerson/*
 
 #Character Content
 Content/Characters/*
+
+#Platforms
+Platforms/HoloLens/*
